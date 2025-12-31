@@ -1,0 +1,18 @@
+*{box-sizing:border-box;}
+body{margin:0;font-family:Poppins,Arial;background:#eef5ff;color:#062b6f;}
+.navbar{background:#0c54de;color:white;padding:14px 24px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;}
+.logo{font-size:24px;font-weight:700;}
+nav a{color:white;text-decoration:none;margin:0 10px;font-weight:600;}
+.login-area button{margin-left:6px;}
+.hero{background:linear-gradient(135deg,#1b6dff,#0a3fb8);padding:50px 30px;display:flex;justify-content:space-between;align-items:center;color:white;}
+.hero-img{width:320px;}
+.hero-left h1{font-size:32px;margin:6px 0;}
+button{padding:10px 16px;border-radius:8px;font-weight:600;cursor:pointer;border:none;}
+.primary{background:white;color:#0b3db7;}
+.outline{background:transparent;color:white;border:2px solid white;}
+.secondary{background:white;color:#0b3db7;}
+.section{padding:25px;}
+.card{background:white;padding:20px;border-radius:14px;min-width:260px;box-shadow:0 8px 18px rgba(0,0,0,.08);text-align:center;margin:10px 0;}
+.row{display:flex;flex-wrap:wrap;gap:15px;justify-content:center;}
+footer{background:#0c54de;text-align:center;color:white;padding:14px;margin-top:25px;}
+input,textarea{padding:10px;border-radius:8px;border:1px solid #ccc;width:100%;max-width:420px;}
